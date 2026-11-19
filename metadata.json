@@ -1,0 +1,6 @@
+{
+  "name": "CampusBite AI",
+  "description": "Smart Campus Canteen & Food Preference Analytics System for student survey intelligence, menu optimization, demand prediction, and AI-driven canteen insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
